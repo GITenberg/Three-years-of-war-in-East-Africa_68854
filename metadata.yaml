@@ -1,0 +1,31 @@
+_repo: Three-years-of-war-in-East-Africa_68854
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Cranworth
+    gutenberg_agent_id: '54981'
+    url: http://www.gutenberg.org/2009/agents/54981
+creator:
+  author:
+    agent_name: Buchanan, Angus
+    gutenberg_agent_id: '54980'
+    url: http://www.gutenberg.org/2009/agents/54980
+description: ''
+gutenberg_issued: '2022-08-27'
+identifiers:
+  gutenberg: '68854'
+language: en
+pgterms:marc904: https://archive.org/details/threeyearsofwari00buch_0
+pgterms:marc905: 20200907100918buchanan
+pgterms:marc906: '1920'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :John Murray,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Three years of war in East Africa
+url: http://www.gutenberg.org/ebooks/68854
